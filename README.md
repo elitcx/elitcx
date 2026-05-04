@@ -16,11 +16,9 @@ Robotics, Metaverse, and 3D Printing.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=elitcx
-  &show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=elitcx&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=elitcx&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitcx&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🚀 Currently working on
 
@@ -30,4 +28,4 @@ Robotics, Metaverse, and 3D Printing.
 
 ## 📬 Connect
 
-[![Instagram](https://img.shields.io/badge/@yourhandle-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kenneth_kiel/)
+[![Instagram](https://img.shields.io/badge/@kenneth_kiel-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kenneth_kiel/)
