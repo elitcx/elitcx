@@ -16,9 +16,9 @@ Robotics, Metaverse, and 3D Printing.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=elitcx&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=elitcx&theme=tokyonight&hide_border=true)](https://github.com/elitcx)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitcx&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitcx&theme=tokyonight)](https://github.com/elitcx)
 
 ## 🚀 Currently working on
 
