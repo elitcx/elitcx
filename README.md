@@ -1,4 +1,6 @@
-# Hi, I'm Elitcx 👋
+# Kenneth Jehezkiel Marvel Wijaya
+**Competitive Programmer · 1st Place OSN-K Informatika 2026**
+Also known as elitcx · Surakarta, Indonesia
 
 **Developer · Creative · Tech Community Builder**
 📍 Surakarta, Indonesia
