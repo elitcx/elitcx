@@ -7,6 +7,8 @@ I build things that look good and work better.
 Co-organizer of UTECH — a school tech community spanning
 Robotics, Metaverse, and 3D Printing.
 
+Portfolio Page: https://kennethjmw.vercel.app/
+
 ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,3 +31,4 @@ Robotics, Metaverse, and 3D Printing.
 ## 📬 Connect
 
 [![Instagram](https://img.shields.io/badge/@kenneth_kiel-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kenneth_kiel/)
+
