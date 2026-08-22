@@ -1,9 +1,10 @@
 # Kenneth Jehezkiel Marvel Wijaya
-**Competitive Programmer · 1st Place OSN-K Informatika 2026**
-Also known as elitcx · Surakarta, Indonesia
+**Competitive Programmer · 1st Place OSN-K Informatika 2026** **Developer · Creative · Tech Community Builder** 📍 Surakarta, Indonesia
 
-**Developer · Creative · Tech Community Builder**
-📍 Surakarta, Indonesia
+Also known as elitcx
+
+
+
 
 I build things that look good and work better.
 Co-organizer of UTECH — a school tech community spanning
